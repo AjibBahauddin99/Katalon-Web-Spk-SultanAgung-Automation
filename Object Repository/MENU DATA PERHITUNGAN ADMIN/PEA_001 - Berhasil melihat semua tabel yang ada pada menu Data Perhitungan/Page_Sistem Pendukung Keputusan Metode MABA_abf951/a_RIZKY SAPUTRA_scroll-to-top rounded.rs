@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_RIZKY SAPUTRA_scroll-to-top rounded</name>
+   <tag></tag>
+   <elementGuidId>3c584173-134d-4e1d-ac1d-9faabfcbf323</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.scroll-to-top.rounded</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4adc60f2-918a-4608-ae19-b052bd2d25c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>scroll-to-top rounded</value>
+      <webElementGuid>b3ec28f5-b4b4-46fe-8fa5-71516e6ee6a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#page-top</value>
+      <webElementGuid>abab56ab-22cd-4884-920c-753f2087175e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/a[@class=&quot;scroll-to-top rounded&quot;]</value>
+      <webElementGuid>c23c805a-dbb7-41a6-b0ed-72eae88c69ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/a</value>
+      <webElementGuid>308ffe11-0772-4aef-a04e-718530346d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RIZKY SAPUTRA'])[9]/following::a[1]</value>
+      <webElementGuid>9fa0f166-0d62-4fc4-a5c9-bd930128f046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LUTHPI'])[9]/following::a[1]</value>
+      <webElementGuid>d809ef9f-0f8e-4dd7-bafa-091f9f21a123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[1]</value>
+      <webElementGuid>3333b163-a9af-4b51-8926-65bcdbfd970a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah anda yakin untuk logout?'])[1]/preceding::a[1]</value>
+      <webElementGuid>e1f6b4b6-99a2-4dca-9508-c6b590e6d941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#page-top')]</value>
+      <webElementGuid>3d4e2af4-25c6-42dd-985c-35bda81749ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div/a</value>
+      <webElementGuid>b0b9f8ae-57a5-42be-9fca-3b0af41653dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#page-top']</value>
+      <webElementGuid>09e084cc-450f-4e85-b722-f136a83fa3c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

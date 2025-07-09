@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Super Baik_fa fa-trash</name>
+   <tag></tag>
+   <elementGuidId>d443b286-797c-4465-bd74-4a2700c74819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[2]/div[3]/div/table/tbody/tr/td[4]/div/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>51131fe2-d57b-4394-a7ed-91d59f487aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>de034b4b-a96d-4f81-8312-645233c207c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-danger btn-sm&quot;]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>a6f9d0e0-6d3b-4b42-a0e5-f3648c576684</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[2]/div[3]/div/table/tbody/tr/td[4]/div/a[2]/i</value>
+      <webElementGuid>564cecca-af41-41fc-b0f4-1a8fa9cf62ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/a[2]/i</value>
+      <webElementGuid>322231e2-0884-4152-873c-914e0b7a7274</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

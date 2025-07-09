@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Normalisasi Dispersi</name>
+   <tag></tag>
+   <elementGuidId>306dcf12-5551-4c1b-a7f2-b92332967875</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[5]/div[3]/div/div/div/table/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>49329dac-2ea6-401f-a6f1-30f5da085d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>73b9841a-01fc-445a-9224-bc879e57115f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Normalisasi Dispersi</value>
+      <webElementGuid>4ec4bc84-3fe1-42eb-b005-d2442ef4c68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;card shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/thead[@class=&quot;bg-success text-white&quot;]/tr[1]/th[1]</value>
+      <webElementGuid>b8e75372-8c42-472f-862b-1129b5beccc7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[5]/div[3]/div/div/div/table/thead/tr/th</value>
+      <webElementGuid>01628bba-c4ab-49a3-8dec-0e4084e480c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TOTAL'])[3]/following::th[1]</value>
+      <webElementGuid>81a881e2-77b6-453a-a733-5935d596e50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D4'])[1]/following::th[1]</value>
+      <webElementGuid>b0e079c0-d032-4863-b088-bc7ee6e01e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W1'])[1]/preceding::th[1]</value>
+      <webElementGuid>63f91a29-a667-4493-9702-8bedd74cdf5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='W2'])[1]/preceding::th[1]</value>
+      <webElementGuid>51124544-4c2f-4fda-a818-4837870b35fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Normalisasi Dispersi']/parent::*</value>
+      <webElementGuid>b4f415d8-7856-4596-9c98-ee5d0d832f4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/table/thead/tr/th</value>
+      <webElementGuid>9a8e1fbb-5f10-4d32-afc3-1895d5fcc920</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Normalisasi Dispersi' or . = 'Normalisasi Dispersi')]</value>
+      <webElementGuid>41e77663-0a20-4235-8a4a-c65ef00c3715</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

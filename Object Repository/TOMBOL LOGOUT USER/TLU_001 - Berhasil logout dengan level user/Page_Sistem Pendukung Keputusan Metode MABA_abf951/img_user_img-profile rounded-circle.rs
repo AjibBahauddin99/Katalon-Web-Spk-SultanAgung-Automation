@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_user_img-profile rounded-circle</name>
+   <tag></tag>
+   <elementGuidId>e0735baf-1dc8-4bef-af80-04c9f10ef32d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='userDropdown']/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.img-profile.rounded-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>3de23c00-c9d7-405d-9751-1b95c3055ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-profile rounded-circle</value>
+      <webElementGuid>a998a821-033b-458e-8a33-b99e3e14bc5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/user.png</value>
+      <webElementGuid>89b48888-9d67-4075-8604-4d322e44d1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;userDropdown&quot;)/img[@class=&quot;img-profile rounded-circle&quot;]</value>
+      <webElementGuid>7c66fe1f-ff12-4087-b801-10954bcdcaf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='userDropdown']/img</value>
+      <webElementGuid>e384fadc-ff05-46dc-93d6-8fd3f62f1aec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>b998846b-d9e7-4217-a95c-864f1dd1f86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/user.png']</value>
+      <webElementGuid>b69766a8-2b7a-43e7-82d2-466501488c20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

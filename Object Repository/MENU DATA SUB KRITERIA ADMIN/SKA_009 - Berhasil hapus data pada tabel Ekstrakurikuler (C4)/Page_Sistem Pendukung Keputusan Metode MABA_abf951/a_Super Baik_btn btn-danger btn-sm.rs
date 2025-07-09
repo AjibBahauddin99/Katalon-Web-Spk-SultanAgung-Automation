@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Super Baik_btn btn-danger btn-sm</name>
+   <tag></tag>
+   <elementGuidId>472ded8a-7e6e-45eb-ac71-e401e015d75b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@onclick=&quot;return confirm ('Apakah anda yakin untuk meghapus data ini')&quot;])[11]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>85ee987d-9148-43d6-ac32-29b9988b2391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tooltip</value>
+      <webElementGuid>051d751a-d39d-4fcd-acd0-d63475eaac9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-placement</name>
+      <type>Main</type>
+      <value>bottom</value>
+      <webElementGuid>28e9c562-35e0-40f6-ac16-71db241d5540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>hapus-sub-kriteria.php?id=45</value>
+      <webElementGuid>04798d1c-c069-49ad-86bd-e279a4813538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return confirm ('Apakah anda yakin untuk meghapus data ini')</value>
+      <webElementGuid>c4cee1f7-2f7b-4dc7-9f54-8c14823dd363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-danger btn-sm</value>
+      <webElementGuid>540ab3b3-f3bc-4116-bd35-3f4b4b607598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-original-title</name>
+      <type>Main</type>
+      <value>Hapus Data</value>
+      <webElementGuid>dd232336-2074-4625-b8ab-542341d457e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>tooltip307516</value>
+      <webElementGuid>6cb9fd75-5942-46eb-9e29-4caff0036736</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[1]/td[4]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-danger btn-sm&quot;]</value>
+      <webElementGuid>969a684c-d795-4da8-851a-13aa11b9b9bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@onclick=&quot;return confirm ('Apakah anda yakin untuk meghapus data ini')&quot;])[11]</value>
+      <webElementGuid>1ad0350a-2afe-4c05-a00a-2ced81e51574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[4]/div[3]/div/table/tbody/tr/td[4]/div/a[2]</value>
+      <webElementGuid>9bfaa41d-f673-4efd-82ce-fcef8e67d6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Baik'])[1]/following::a[2]</value>
+      <webElementGuid>55b7cce5-c80c-4922-8e2b-c1741fdfa3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aksi'])[3]/following::a[2]</value>
+      <webElementGuid>9cfc5a6a-0bcc-481c-91a3-86b28d4cb185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sangat Baik'])[3]/preceding::a[1]</value>
+      <webElementGuid>86731a1e-1747-4575-bc16-d3dad406d0c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Baik'])[3]/preceding::a[3]</value>
+      <webElementGuid>54640737-424f-47e7-93c3-d2fa98f0c4fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'hapus-sub-kriteria.php?id=45')]</value>
+      <webElementGuid>a64902d8-e402-4d81-aa97-c4cdb6f225e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[3]/div/table/tbody/tr/td[4]/div/a[2]</value>
+      <webElementGuid>24c44fd0-dbef-4c66-a88f-f8fe6a456543</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'hapus-sub-kriteria.php?id=45']</value>
+      <webElementGuid>5f1b7b8c-37f9-4ed6-9a16-4982871409d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

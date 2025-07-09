@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Update_fa fa-save</name>
+   <tag></tag>
+   <elementGuidId>5b64ffc6-ad25-4400-b7c7-cca2eedd2201</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/form/div/div[3]/button[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-save</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2fda2846-03d7-4b1c-b407-da9b41f82fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-save</value>
+      <webElementGuid>c0419dfd-5a4c-41cb-8da7-b89754059ffe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;card shadow mb-4&quot;]/div[@class=&quot;card-footer text-right&quot;]/button[@class=&quot;btn btn-success&quot;]/i[@class=&quot;fa fa-save&quot;]</value>
+      <webElementGuid>4cb714be-ddb1-4be0-a845-b6e45d405690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/form/div/div[3]/button[2]/i</value>
+      <webElementGuid>58b637e2-b5ad-4226-860a-b336129a8463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>fe4485cf-2549-4ac9-8d38-1aeb11706825</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

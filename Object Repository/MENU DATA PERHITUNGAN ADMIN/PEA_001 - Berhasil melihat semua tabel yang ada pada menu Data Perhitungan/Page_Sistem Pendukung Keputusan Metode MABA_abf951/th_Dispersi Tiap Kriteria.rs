@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Dispersi Tiap Kriteria</name>
+   <tag></tag>
+   <elementGuidId>584fd274-f4f7-4758-b15a-c771c90bb4d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[5]/div[2]/div/div/div/table/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>13ded8f3-f621-484d-8d28-7962e35a21c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>2</value>
+      <webElementGuid>7607533f-16f3-42b9-8c21-c16ca0b8409f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dispersi Tiap Kriteria</value>
+      <webElementGuid>08827d64-6a0f-4e1f-8ee2-22de901a3794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;card shadow&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;table-responsive&quot;]/table[@class=&quot;table table-bordered&quot;]/thead[@class=&quot;bg-success text-white&quot;]/tr[1]/th[1]</value>
+      <webElementGuid>67517562-32d9-43e3-a6f0-c77a2ce3ccaa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[5]/div[2]/div/div/div/table/thead/tr/th</value>
+      <webElementGuid>58eca65d-0518-4b6b-86b1-fd89a2c0e687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E4'])[1]/following::th[1]</value>
+      <webElementGuid>b64ea0f8-449f-4ca6-8d11-9d528b34cf0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E3'])[1]/following::th[1]</value>
+      <webElementGuid>cec3a70a-9790-430c-94c6-378b8cdb41be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D1'])[1]/preceding::th[1]</value>
+      <webElementGuid>8298b75d-48ad-4527-aa95-c41cce6c0fd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D2'])[1]/preceding::th[1]</value>
+      <webElementGuid>0a237ca4-05d4-4a87-b932-5d96b017e5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dispersi Tiap Kriteria']/parent::*</value>
+      <webElementGuid>fbc6087d-cb77-4e9f-86db-f5fac3aad527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/table/thead/tr/th</value>
+      <webElementGuid>29c1576d-0501-4d63-9082-32611daa1a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Dispersi Tiap Kriteria' or . = 'Dispersi Tiap Kriteria')]</value>
+      <webElementGuid>9449311a-607b-4069-87d8-f6a2c5b0474d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

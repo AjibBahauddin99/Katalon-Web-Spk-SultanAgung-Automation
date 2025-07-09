@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pilihan Sub Kriteria_fa fa-edit</name>
+   <tag></tag>
+   <elementGuidId>3fd95e81-0539-46e9-aee4-7bd040ccaa39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dataTable']/tbody/tr[5]/td[7]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b2983480-f6ac-4e55-b6ab-4ef4eb9d4367</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-edit</value>
+      <webElementGuid>e015c3e8-3cb7-4c62-8074-8fbe3646affe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[7]/div[@class=&quot;btn-group&quot;]/a[@class=&quot;btn btn-warning btn-sm&quot;]/i[@class=&quot;fa fa-edit&quot;]</value>
+      <webElementGuid>60b65511-e6d8-40a8-832e-95f755650283</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dataTable']/tbody/tr[5]/td[7]/div/a/i</value>
+      <webElementGuid>5b7ba5c1-ae0a-4b04-81c0-ea5cf06e414a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[7]/div/a/i</value>
+      <webElementGuid>91c387a9-62c1-4cf1-948e-07fc8d9b3c02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
